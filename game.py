@@ -17,7 +17,7 @@ def play_game():
     player2_choice = get_player_choice(2)
 
     winner = determine_winner(player1_choice, player2_choice)
-    print(winner)
+    print(winner
 
 if __name__ == "__main__":
         play_game()
